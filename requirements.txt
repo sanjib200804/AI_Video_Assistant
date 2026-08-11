@@ -1,0 +1,16 @@
+langchain
+langchain-core
+langchain-community
+langchain-mistralai
+langchain_chroma
+chromadb
+streamlit
+python-dotenv
+yt-dlp
+openai
+pydub
+ffmpeg-python
+tiktoken
+unstructured
+requests
+beautifulsoup4
